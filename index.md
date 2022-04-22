@@ -1,8 +1,8 @@
 ## UX|UI Designer and Web Developer
 
-You can use the [editor on GitHub](https://github.com/Binca-SA/Binca-SA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I started in the digital world with my studies in Graphic Design.
+I love layout and design web pages. I like using Figma and SCSS.
+My goal is to improve my skills and expand my knowledge, especially in web accessibility
 
 ### SKILLS
 
@@ -24,22 +24,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Javascript
   - Framework: React
 
-```markdown
-Syntax highlighted code block
+### EDUCATION
+**(2017/2021)**
+  - Grado en Bellas artes y Diseño Gráfico, *Univerisdad Miguel Hernández, Altea.*
+**(2021/2022)**
+  - Máster ID3: Diseño UX/UI, Front-end and Digital Marketing, *ESAT, Valencia*
 
-# Header 1
-## Header 2
-### Header 3
+### EXPERIENCIE
+**Jun. 2021 - Sept. 2021**
+**Mediterrànnia Creativa - Advertising and marketing agency**
+- Intership as Graphic designer and content creator for social media. 
+  
+### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
+**https://frontend.esatid3-2021.com/binca/**
+  - Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.
+**https://frontend.esatid3-2021.com/binca-beta/**
+  - Front-end design and programming of a dynamic and scalable website for a jewelry store. Sections created: Home, Shop with respective categories and an            interactive test for users.
 
-- Bulleted
-- List
+### MORE OF MY WORK
+- https://github.com/Binca-SA
+- https://codepen.io/binca-sa
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
