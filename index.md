@@ -25,9 +25,9 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
   - Framework: React
 
 ### EDUCATION
-**(2017/2021)**
+- **(2017/2021)**
   - Grado en Bellas artes y Diseño Gráfico, *Univerisdad Miguel Hernández, Altea.*
-**(2021/2022)**
+- **(2021/2022)**
   - Máster ID3: Diseño UX/UI, Front-end and Digital Marketing, *ESAT, Valencia*
 
 ### EXPERIENCIE
@@ -36,9 +36,9 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 - Intership as Graphic designer and content creator for social media. 
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
-**https://frontend.esatid3-2021.com/binca/**
+- **(https://frontend.esatid3-2021.com/binca/)**
   - Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.
-**https://frontend.esatid3-2021.com/binca-beta/**
+- **(https://frontend.esatid3-2021.com/binca-beta/)**
   - Front-end design and programming of a dynamic and scalable website for a jewelry store. Sections created: Home, Shop with respective categories and an            interactive test for users.
 
 ### MORE OF MY WORK
