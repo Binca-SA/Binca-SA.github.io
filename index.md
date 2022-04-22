@@ -36,14 +36,14 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 - Intership as Graphic designer and content creator for social media. 
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
-- **(https://frontend.esatid3-2021.com/binca/)**
+- **[ABOUT ME](https://frontend.esatid3-2021.com/binca/)**
   - Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.
-- **(https://frontend.esatid3-2021.com/binca-beta/)**
+- **[TERRALAVA JEWELS](https://frontend.esatid3-2021.com/binca-beta/)**
   - Front-end design and programming of a dynamic and scalable website for a jewelry store. Sections created: Home, Shop with respective categories and an            interactive test for users.
 
 ### MORE OF MY WORK
-- https://github.com/Binca-SA
-- https://codepen.io/binca-sa
+- [GITHUB](https://github.com/Binca-SA)
+- [CODEPEN](https://codepen.io/binca-sa)
 
 
 ```
