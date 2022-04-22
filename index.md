@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+## UX|UI Designer and Web Developer
 
 You can use the [editor on GitHub](https://github.com/Binca-SA/Binca-SA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### SKILLS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**UX | UI Tools**
+- Figma
+- Miro
+- Adobe Pack
+  - Premiere
+  - Photoshop
+  - Illustrator
+  - After Effects
+  - InDesign
+
+**Web Developer**
+- HTML5
+- CSS3
+- Prepros
+- SCSS
+- Javascript
+  - Framework: React
 
 ```markdown
 Syntax highlighted code block
