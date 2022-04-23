@@ -44,3 +44,6 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 ### MORE OF MY WORK
 - [GITHUB](https://github.com/Binca-SA)
 - [CODEPEN](https://codepen.io/binca-sa)
+
+### CONTACT ME
+- binca.codesign@gmail.com
