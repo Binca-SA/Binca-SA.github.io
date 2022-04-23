@@ -46,4 +46,5 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 - [CODEPEN](https://codepen.io/binca-sa)
 
 ### CONTACT ME
-- binca.codesign@gmail.com
+- ✉️ binca.codesign@gmail.com
+- [LINKEDIN](https://www.linkedin.com/in/binca-shinaasi-0b9792206/)
