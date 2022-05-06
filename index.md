@@ -2,7 +2,8 @@
 
 I started in the digital world with my studies in Graphic Design.
 I love layout and design web pages. I like using Figma and SCSS.
-My goal is to improve my skills and expand my knowledge, especially in web accessibility and learn more about CSS architecture to make scalable and maintainable projects.
+Another of my hobbies is the user experience in the digital world, creating a friendly and understandable environment for all audiences.
+My goal is to improve my skills and expand my knowledge, especially in web accessibility and learn more about CSS architecture to make scalable and maintainable projects. 
 
 ### SKILLS
 
