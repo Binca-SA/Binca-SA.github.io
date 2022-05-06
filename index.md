@@ -42,9 +42,11 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
   - Front-end design and programming of a dynamic and scalable website for a jewelry store. Sections created: Home, Shop with respective categories and an            interactive test for users.
 
 ### MORE OF MY WORK
+- [BEHANCE](https://www.behance.net/bincashinaasi)
 - [GITHUB](https://github.com/Binca-SA)
 - [CODEPEN](https://codepen.io/binca-sa)
 
 ### CONTACT ME
 - ✉️ binca.codesign@gmail.com
 - [LINKEDIN](https://www.linkedin.com/in/binca-shinaasi-0b9792206/)
+
