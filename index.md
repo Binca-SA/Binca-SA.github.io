@@ -8,7 +8,7 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 ### SKILLS
 
 **UX | UI Tools**
-- Figma
+- Figma -> [Click If you want to see me prototiping] (https://www.loom.com/share/133f98905d2d4283af835c8594317f5a)
 - Miro
 - Adobe Pack
   - Premiere
