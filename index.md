@@ -8,7 +8,7 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 ### SKILLS
 
 **UX | UI Tools**
-- Figma -> [Click If you want to see me prototyping](https://www.loom.com/share/133f98905d2d4283af835c8594317f5a)
+- Figma -> [Click If you want to see me prototyping](https://www.loom.com/share/133f98905d2d4283af835c8594317f5a){:target="_blank"}
 - Miro
 - Adobe Pack
   - Premiere
@@ -37,17 +37,17 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 - Intership as Graphic designer and content creator for social media. 
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
-- **[ABOUT ME](https://frontend.esatid3-2021.com/binca/)**
+- **[ABOUT ME](https://frontend.esatid3-2021.com/binca/){:target="_blank"}**
   - Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.
-- **[TERRALAVA JEWELS](https://frontend.esatid3-2021.com/binca-beta/)**
+- **[TERRALAVA JEWELS](https://frontend.esatid3-2021.com/binca-beta/){:target="_blank"}**
   - Front-end design and programming of a dynamic and scalable website for a jewelry store. Sections created: Home, Shop with respective categories and an            interactive test for users.
 
 ### MORE OF MY WORK
-- [BEHANCE](https://www.behance.net/bincashinaasi)
-- [GITHUB](https://github.com/Binca-SA)
-- [CODEPEN](https://codepen.io/binca-sa)
+- [BEHANCE](https://www.behance.net/bincashinaasi){:target="_blank"}
+- [GITHUB](https://github.com/Binca-SA){:target="_blank"}
+- [CODEPEN](https://codepen.io/binca-sa){:target="_blank"}
 
 ### CONTACT ME
 - ✉️ binca.codesign@gmail.com
-- [LINKEDIN](https://www.linkedin.com/in/binca-shinaasi-0b9792206/)
+- [LINKEDIN](https://www.linkedin.com/in/binca-shinaasi-0b9792206/){:target="_blank"}
 
