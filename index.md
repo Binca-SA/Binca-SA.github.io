@@ -49,5 +49,6 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 
 ### CONTACT ME
 - ✉️ binca.codesign@gmail.com
+- 📞 689 806 537
 - [LINKEDIN](https://www.linkedin.com/in/binca-shinaasi-0b9792206/){:target="_blank"}
 
