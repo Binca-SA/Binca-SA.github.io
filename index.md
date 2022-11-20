@@ -40,7 +40,7 @@ En mi tiempo libre colaboro con empresas para ayudarles con la maquetación de p
 
 **Jun 2022 - Actualmente**
 **LIVE4LIFE - Advertising and marketing agency**
-- Head of UX | UI designer. 
+- Head of UX/UI
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
 - **[KOOPERA](https://redefinetudresscode.koopera.org){:target="_blank"}**
