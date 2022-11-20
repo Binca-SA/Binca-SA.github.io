@@ -1,15 +1,17 @@
-## UX|UI Designer and Web Developer
+## UX|UI Designer 
 
-I started in the digital world with my studies in Graphic Design.
-I love layout and design web pages. I like using Figma and SCSS.
-Another of my hobbies is the user experience in the digital world, creating a friendly and understandable environment for all audiences.
-My goal is to improve my skills and expand my knowledge, especially in web accessibility and learn more about CSS architecture to make scalable and maintainable projects. 
+Empecé mi carrera en el mundo del diseño gráfico. 
+Actualmente me dedico al Diseño Centrado en el Usuario en la plataforma online de alquiler LIVE4LILFE. Evalúo y desarrollo su experiencia y estética.
+También me encargo de su maquetación posterior con SASS. 
+En mi tiempo libre colaboro con empresas para ayudarles con la maquetación de páginas web. 
 
 ### SKILLS
 
 **UX | UI Tools**
 - Figma
+- Hotjar 
 - Miro
+- Google Analytics
 - Adobe Pack
   - Premiere
   - Photoshop
@@ -22,8 +24,8 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
 - CSS3
 - Prepros
 - SCSS
-- Javascript
-  - Framework: React
+- SASS
+- Frameworks con los que trabajo: VUE y React
 
 ### EDUCATION
 - **(2017/2021)**
@@ -32,15 +34,17 @@ My goal is to improve my skills and expand my knowledge, especially in web acces
   - Máster ID3: Diseño UX/UI, Front-end and Digital Marketing, *ESAT, Valencia*
 
 ### EXPERIENCIE
-**Jun. 2021 - Sept. 2021**
-**Mediterrànnia Creativa - Advertising and marketing agency**
-- Intership as Graphic designer and content creator for social media. 
+**Mayo 2021 - Sept. 2021**
+**Mediterrànnia Creativa - Agencia de publicidad y marketing**
+- Diseñadora gráfica y creación de contenido para redes sociales. 
+
+**Jun 2022 - Actualmente**
+**LIVE4LIFE - Advertising and marketing agency**
+- Head of UX | UI designer. 
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
-- **[ABOUT ME](https://frontend.esatid3-2021.com/binca/){:target="_blank"}**
-  - Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.
-- **[TERRALAVA JEWELS](https://frontend.esatid3-2021.com/binca-beta/){:target="_blank"}**
-  - Front-end design and programming of a dynamic and scalable website for a jewelry store. Sections created: Home, Shop with respective categories and an            interactive test for users.
+- **[KOOPERA](https://redefinetudresscode.koopera.org){:target="_blank"}**
+  - Maquetación de la layout con HTML5, Y SASS. Aplicación de técnicas SEO y accesibilidad. 
 
 ### MORE OF MY WORK
 - [BEHANCE](https://www.behance.net/bincashinaasi){:target="_blank"}
