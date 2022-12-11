@@ -40,11 +40,14 @@ En mi tiempo libre colaboro con empresas para ayudarles con la maquetación de p
 
 **Jun 2022 - Actualmente**
 **LIVE4LIFE - Advertising and marketing agency**
-- Head of UX/UI
+- Encargada de la experiencia de usuario e interfaz de la plataforma online. Maquetación de los componentes previamnete diseñados con Vue y SASS. 
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
 - **[KOOPERA](https://redefinetudresscode.koopera.org){:target="_blank"}**
   - Maquetación de la layout con HTML5, Y SASS. Aplicación de técnicas SEO y accesibilidad. 
+  
+- **[LIVE4IFE](https://live4life.site/es){:target="_blank"}**
+  - Encargada de la experiencia de usuario e interfaz de la plataforma online. Wireframing (Miro), diseño de sistemas y prototipado (Figma), maquetación de los componentes diseñados (Vue y SASS)
 
 ### MORE OF MY WORK
 - [BEHANCE](https://www.behance.net/bincashinaasi){:target="_blank"}
