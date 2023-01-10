@@ -39,7 +39,7 @@ En mi tiempo libre colaboro con empresas para ayudarles con la maquetación de p
 - Diseñadora gráfica y creación de contenido para redes sociales. 
 
 **Jun 2022 - Actualmente**
-**LIVE4LIFE - Advertising and marketing agency**
+**LIVE4LIFE - Plataforma online de alquiler**
 - Encargada de la experiencia de usuario e interfaz de la plataforma online. Maquetación de los componentes previamnete diseñados con Vue y SASS. 
   
 ### MY WORKS AS A UX/UI DESIGNER AND WEB DEVELOPER
