@@ -51,6 +51,7 @@ En mi tiempo libre colaboro con empresas para ayudarles con la maquetación de p
 
 ### MORE OF MY WORK
 - [BEHANCE](https://www.behance.net/bincashinaasi){:target="_blank"}
+- [INSTAGRAM](https://www.instagram.com/binca_codesign/){:target="_blank"}
 - [GITHUB](https://github.com/Binca-SA){:target="_blank"}
 - [CODEPEN](https://codepen.io/binca-sa){:target="_blank"}
 
